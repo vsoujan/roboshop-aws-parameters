@@ -22,7 +22,6 @@ parameters = {
   "rds.dev.database_name"      = { type = "String", value = "dummy" }
   "rds.dev.master_password"    = { type = "SecureString", value = "roboshop1234" }
 
-  ## ElasticSearch
   "elasticsearch.username" = { type = "String", value = "elastic" }
   "elasticsearch.password" = { type = "SecureString", value = "txsUt7DLMqyllxVz1KwE" }
 }
